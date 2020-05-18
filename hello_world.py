@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 print("In master branch")
+=======
+print("In dev branch")
+>>>>>>> dev
